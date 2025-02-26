@@ -1,13 +1,13 @@
- 👋 Hi, bem vindo ao Git de Karol Teixeira
+Hi, bem vindo ao Git de Karol Teixeira
  
  
-  -🌱 Estou em constante aprendizado na área de programação e tratamento de dados
+🌱 Estou em constante aprendizado na área de programação e tratamento de dados
  
-  -💞 I’m looking to collaborate on desenvolvimento e manutenção de projetos
+💞 I’m looking to collaborate on desenvolvimento e manutenção de projetos
   
-  -📫 Tel.: (24) 999761860 / email: karolteixeira007@gmail.com
+📫 Tel.: (24) 999761860 / email: karolteixeira007@gmail.com
  
-  -⚡ Fun fact: ...
+⚡ Fun fact: ...
 
 <!---
 K4rolTeixeira/K4rolTeixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
