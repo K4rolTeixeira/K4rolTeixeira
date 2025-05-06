@@ -1,31 +1,61 @@
 Hi, bem vindo ao Git de Karol Teixeira
- 
- 
-🎓 Atualmente, estou no 1º período de Engenharia de Software  
-🧠 Estudando: Lógica de programação, C++, e Pensamento computacional.  
-🛠️ Trabalhando em: automações no Excel com VBA + integração com bancos de dados SQLite  
-📚 Interesses: Desenvolvimento Web, Banco de Dados, IA e Análise de Dados.
 
-**Linguagens:**  
+🎓 Estudante de Engenharia de Software  
+🧠 Apaixonado por resolver problemas com código e dados  
+🚀 Explorando automações com VBA, análise de dados com Power BI, e desenvolvimento com Python  
+
+---
+
+## 🧠 Sobre Mim
+
+- 📍 Brasil  
+- 🎓 Atualmente no 1º período da faculdade de Engenharia de Software  
+- 🛠️ Trabalhando com automações em Excel + VBA integradas com bancos de dados SQLite  
+- 📊 Aprendendo Power BI para transformar dados em insights visuais  
+- 💡 Interesses: Desenvolvimento Web, Análise de Dados, Banco de Dados, IA e Automação de Tarefas
+
+---
+
+## 🧰 Tecnologias que uso
+
+**Linguagens & Scripts:**  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 ![VBA](https://img.shields.io/badge/-VBA-333?style=flat&logo=microsoft-excel)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite)
 
-**Ferramentas:**  
-Excel, VS Code, Git, GitHub
+**Ferramentas & Plataformas:**  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 🚧 Projetos em Destaque
+
+📌 [Automação de relatórios de vendas com VBA + SQLite]()  
+📌 [Painel de análise de vendas em Power BI](https://app.powerbi.com/links/MD-nff3Fsc?ctid=69bf129d-5481-4ce6-b021-3058196304b5&pbi_source=linkShare&bookmarkGuid=3578d357-3fc2-46c4-ba91-5e57062ed0a6)  
+📌 [Script Python para organização de arquivos]()  
 
 
-📌 [Automação de relatórios de vendas com VBA + SQLite](https://github.com/seuusuario/projeto-vba-vendas)  
-📌 [Script Python para organização de arquivos](https://github.com/seuusuario/script-organizador)  
+
+---
+
+## 📈 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
 
+---
 
+## 🌐 Conecte-se comigo
 
 📫 [Email](karolteixeira007@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/seulinkedin)  
 
+---
 
+> “Transformando dados em decisões e código em soluções.”  
 
 
 <!---
