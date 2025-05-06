@@ -32,16 +32,6 @@ Hi, bem vindo ao Git de Karol Teixeira
 
 ---
 
-## 🚧 Projetos em Destaque
-
-📌 [Automação de relatórios de vendas com VBA + SQLite]()  
-📌 [Painel de análise de vendas em Power BI](https://app.powerbi.com/links/MD-nff3Fsc?ctid=69bf129d-5481-4ce6-b021-3058196304b5&pbi_source=linkShare&bookmarkGuid=3578d357-3fc2-46c4-ba91-5e57062ed0a6)  
-📌 [Script Python para organização de arquivos]()  
-
-
-
----
-
 ## 📈 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
