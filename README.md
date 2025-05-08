@@ -16,11 +16,11 @@ Hi, bem vindo ao Git de Karol Teixeira
 
 ---
 
-## 🧰 Tecnologias que uso
+## 🧰 Ferramentas usadas
 
 **Linguagens & Scripts:**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![VBA](https://img.shields.io/badge/-VBA-333?style=flat&logo=microsoft-excel)  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![VBA](https://img.shields.io/badge/-VBA-333?style=flat&logo=microsoft-excel)  
+  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite)
 
 **Ferramentas & Plataformas:**  
