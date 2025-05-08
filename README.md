@@ -22,7 +22,7 @@ Hi, bem vindo ao Git de Karol Teixeira
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![VBA](https://img.shields.io/badge/-VBA-333?style=flat&logo=microsoft-excel)  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite)
 
-**Ferramentas & Plataformas:**  
+**Plataformas:**  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
