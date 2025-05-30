@@ -9,7 +9,7 @@ Hi, bem vindo ao Git de Karol Teixeira
 ## 🧠 Sobre Mim
 
 - 📍 Brasil  
-- 🎓 Atualmente no 1º período da faculdade de Engenharia de Software  
+- 🎓 Atualmente no 2º período da faculdade de Engenharia de Software  
 - 🛠️ Trabalhando com automações em Excel + VBA integradas com bancos de dados SQLite  
 - 📊 Aprendendo Power BI para transformar dados em insights visuais  
 - 💡 Interesses: Desenvolvimento Web, Análise de Dados, Banco de Dados, IA e Automação de Tarefas
